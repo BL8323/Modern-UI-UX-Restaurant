@@ -1,4 +1,4 @@
-Live Demo : https://restaurant-web-modern.netlify.app/
+Live Demo : https://restaurantsnap-web.netlify.app/
 
 # Getting Started with Create React App
 
